@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andybantly
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning object pascal.  I've previously worked in other languages
+- 🌱 Neat
 - 💞️ I’m looking to collaborate on fractals.  It is here as MFC-Fractal.  Codeproject.  https://www.codeproject.com/Articles/353651/Visualizing-Fractals
 - 📫 How to reach me knutknoblauch@outlook.com
 
