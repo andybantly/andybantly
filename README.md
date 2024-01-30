@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @andybantly
 - 👀 I’m interested in stuff
-- 🌱 Neat
-- 💞️ I’m looking to collaborate on fractals.  It is here as MFC-Fractal.  Codeproject.  https://www.codeproject.com/Articles/353651/Visualizing-Fractals
-- 📫 How to reach me knutknoblauch@outlook.com
+- 🌱 I like all things programming.
+- 💞️ I’m looking to collaborate on fractals and SQL. See my repository.
+- 📫 How to reach me andybantly@hotmail.com
 
 <!---
 andybantly/andybantly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
